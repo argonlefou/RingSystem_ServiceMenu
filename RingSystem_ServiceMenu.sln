@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DreamRaiders_ServiceMenu", "DreamRaiders_ServiceMenu\DreamRaiders_ServiceMenu.csproj", "{56D4BEC8-8C76-4BAC-924D-09DB20145C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GoldenGun_ServiceMenu", "GoldenGun_ServiceMenu\GoldenGun_ServiceMenu.csproj", "{2055F0B5-ACF1-4BFE-9DB6-F803F6BE26C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lgi_ServiceMenu", "Lgi_ServiceMenu\Lgi_ServiceMenu.csproj", "{073EE42A-7BFF-4319-A653-3E2F285F1D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lgi3D_ServiceMenu", "Lgi3D_ServiceMenu\Lgi3D_ServiceMenu.csproj", "{58C889FC-CA09-46FD-B773-A3B7F1F86FE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Transformers_ServiceMenu", "Transformers_ServiceMenu\Transformers_ServiceMenu.csproj", "{75D8EF47-F24D-49F0-87FF-38314BB71B4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperationGhost_ServiceMenu", "OperationGhost_ServiceMenu\OperationGhost_ServiceMenu.csproj", "{20D5BB03-3178-411E-99E4-D530D9A7E76A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D4BEC8-8C76-4BAC-924D-09DB20145C59}.Debug|x86.ActiveCfg = Debug|x86
+		{56D4BEC8-8C76-4BAC-924D-09DB20145C59}.Debug|x86.Build.0 = Debug|x86
+		{56D4BEC8-8C76-4BAC-924D-09DB20145C59}.Release|x86.ActiveCfg = Release|x86
+		{56D4BEC8-8C76-4BAC-924D-09DB20145C59}.Release|x86.Build.0 = Release|x86
+		{2055F0B5-ACF1-4BFE-9DB6-F803F6BE26C9}.Debug|x86.ActiveCfg = Debug|x86
+		{2055F0B5-ACF1-4BFE-9DB6-F803F6BE26C9}.Debug|x86.Build.0 = Debug|x86
+		{2055F0B5-ACF1-4BFE-9DB6-F803F6BE26C9}.Release|x86.ActiveCfg = Release|x86
+		{2055F0B5-ACF1-4BFE-9DB6-F803F6BE26C9}.Release|x86.Build.0 = Release|x86
+		{073EE42A-7BFF-4319-A653-3E2F285F1D21}.Debug|x86.ActiveCfg = Debug|x86
+		{073EE42A-7BFF-4319-A653-3E2F285F1D21}.Debug|x86.Build.0 = Debug|x86
+		{073EE42A-7BFF-4319-A653-3E2F285F1D21}.Release|x86.ActiveCfg = Release|x86
+		{073EE42A-7BFF-4319-A653-3E2F285F1D21}.Release|x86.Build.0 = Release|x86
+		{58C889FC-CA09-46FD-B773-A3B7F1F86FE3}.Debug|x86.ActiveCfg = Debug|x86
+		{58C889FC-CA09-46FD-B773-A3B7F1F86FE3}.Debug|x86.Build.0 = Debug|x86
+		{58C889FC-CA09-46FD-B773-A3B7F1F86FE3}.Release|x86.ActiveCfg = Release|x86
+		{58C889FC-CA09-46FD-B773-A3B7F1F86FE3}.Release|x86.Build.0 = Release|x86
+		{75D8EF47-F24D-49F0-87FF-38314BB71B4C}.Debug|x86.ActiveCfg = Debug|x86
+		{75D8EF47-F24D-49F0-87FF-38314BB71B4C}.Debug|x86.Build.0 = Debug|x86
+		{75D8EF47-F24D-49F0-87FF-38314BB71B4C}.Release|x86.ActiveCfg = Release|x86
+		{75D8EF47-F24D-49F0-87FF-38314BB71B4C}.Release|x86.Build.0 = Release|x86
+		{20D5BB03-3178-411E-99E4-D530D9A7E76A}.Debug|x86.ActiveCfg = Debug|x86
+		{20D5BB03-3178-411E-99E4-D530D9A7E76A}.Debug|x86.Build.0 = Debug|x86
+		{20D5BB03-3178-411E-99E4-D530D9A7E76A}.Release|x86.ActiveCfg = Release|x86
+		{20D5BB03-3178-411E-99E4-D530D9A7E76A}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
