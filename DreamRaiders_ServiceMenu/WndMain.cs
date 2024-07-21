@@ -168,10 +168,6 @@ namespace DreamRaiders_ServiceMenu
             _EepromContent[DataStartOffset + 0x1D8] = (byte)Cbox_AdvSeat.SelectedIndex;
             _EepromContent[DataStartOffset + 0x1E4] = (byte)Cbox_Fan.SelectedIndex;
 
-            _EepromContent[DataStartOffset + 0x227] = 0x30;
-            _EepromContent[DataStartOffset + 0x295] = 0x00;
-
-
             byte[] UncheckedData = new byte[JCONFIG_OPTIONS_LENGTH];
             for (int i = 0; i < JCONFIG_OPTIONS_LENGTH; i++)
             {
